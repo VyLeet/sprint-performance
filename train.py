@@ -40,4 +40,4 @@ lr = LinearRegression()
 lr.fit(X, y)
 
 # Save model
-dump(lr, 'lr.joblib') 
+dump(lr, 'model.joblib') 

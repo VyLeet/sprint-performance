@@ -8,4 +8,4 @@ Repository for predicting team sprint performance
 4. Activate the virtual environment with `source venv/bin/activate`
 5. Install the dependencies with `pip install -r requirements.txt`
 6. Run `python train.py`
-7. Run `python predict.py`
+7. Run `python app.py` to run the webserver locally
